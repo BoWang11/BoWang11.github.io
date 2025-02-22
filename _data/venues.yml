@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"JGR Atmospheres":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/21698996
+  # color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"BAMS":
+  url: https://www.ametsoc.org/index.cfm/ams/publications/bulletin-of-the-american-meteorological-society-bams/
 
-"Vision":
-  color: "#009f36"
+"AMT":
+  url: https://www.atmospheric-measurement-techniques.net/
+  # color: "#009f36"
+
+"EPJ Web Conf.":
+  url: https://www.epj-conferences.org/

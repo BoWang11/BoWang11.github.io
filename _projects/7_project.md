@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Credit Risk Model and Loan Decision Engine
+description: Machine Learning Model Development and Deployment
+img: assets/img/test_machinelearning.jpg
 importance: 1
-category: work
+category: Data Science
 related_publications: true
 ---
 

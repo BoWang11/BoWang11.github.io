@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - BoWang11
+  # - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - BoWang11/MyByz1.0
+  - BoWang11/web_crawler_example
+

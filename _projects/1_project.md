@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Customer Segmentation Dashboard
+description: Tableau Dashboard
+img: assets/img/test_Tableau.jpg
 importance: 1
-category: work
+category: Data Science
 related_publications: true
 ---
 
