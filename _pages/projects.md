@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: More projects coming soon.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Data Science, Atmospheric Science]
 horizontal: false
