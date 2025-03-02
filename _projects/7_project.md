@@ -5,7 +5,7 @@ description: Machine Learning Model Development and Deployment
 img: assets/img/test_machinelearning.jpg
 importance: 1
 category: Data Science
-related_publications: true
+related_publications: false
 ---
 
 **Data Source**: [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
